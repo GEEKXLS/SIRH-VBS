@@ -1,2 +1,2 @@
 # SIRH-VBS
-System d'informations des ressources humaines 
+System d'information des ressources humaines .
